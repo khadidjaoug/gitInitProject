@@ -9,6 +9,6 @@
     <link rel="stylesheet" href="public/css/style.css">
 </head>
 <body>
-    
+    <h1>Titre de page</h1>
 </body>
 </html>
